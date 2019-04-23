@@ -9,6 +9,10 @@ and set shell path to `/bin/bash --rcfile ~/.profile`
 
 ![no_git_repository](no_git.png "Screen of terminal")
 
-![git_repository](yes_git.png "Screen of terminal")
+![git_repository](made_changes.png "Screen of terminal")
+
+![git_repository](committed.png "Screen of terminal")
 
 This is just my customization for Ubuntu 18.04 of https://coderwall.com/p/pn8f0g/show-your-git-status-and-branch-in-color-at-the-command-prompt
+
+######terminal used for screenshots - tilix
