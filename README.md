@@ -1,7 +1,7 @@
 # git-bash-prompt
 Bash script adding git status to prompt in terminal
 
-Copy everything from the _script_ to your ~/.profile file.
+Copy everything from the _script_ to your ~/.profile file. If it doesn't work - copy it to ~/.bashrc .
 
 To make this work in IntelliJ's (or other IDE's) terminal go to:
 _Settings_ -> _Tools_ -> _Terminal_ 
